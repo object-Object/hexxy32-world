@@ -1,0 +1,309 @@
+{
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2024-11-06 15:04:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-06 15:04:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-11-06 15:04:07 -0500"
+    },
+    "done": false
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2024-11-06 15:04:24 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:creative_unlocker": {
+    "criteria": {
+      "has_creative_unlocker": "2024-11-06 15:04:24 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:aab_big_cast": {
+    "criteria": {
+      "cast_amt": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/inventory": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:enlightenment": {
+    "criteria": {
+      "health_used": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom4": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom3": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom5": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom2": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom1": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:aaa_wasteful_cast": {
+    "criteria": {
+      "waste_amt": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment1": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment2": {
+    "criteria": {
+      "grant": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:opened_eyes": {
+    "criteria": {
+      "health_used": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:y_u_no_cast_angy": {
+    "criteria": {
+      "did_the_thing": "2024-11-06 15:04:27 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/trinket": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/lens": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/artifact": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_small": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/evaluator": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/powder_snow_cauldron": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/abacus": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/blue_ice": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_medium": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/packed_ice": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus_rotated": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexal:recipes/redstone/relay": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/thought_knot": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/cypher": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/debugger": {
+    "criteria": {
+      "has_item": "2024-11-06 15:04:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-11-06 16:14:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-06 16:15:32 -0500"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/spellbook": {
+    "criteria": {
+      "has_focus": "2024-11-06 16:15:32 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/monitor_normal": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/printer": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/cable": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/disk_drive": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/speaker": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wired_modem": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "computercraft:recipes/decorations/skull_dan200": {
+    "criteria": {
+      "has_computer": "2024-11-07 11:53:34 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
